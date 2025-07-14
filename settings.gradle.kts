@@ -1,0 +1,1 @@
+rootProject.name = "unicode_decoder_pkg"
